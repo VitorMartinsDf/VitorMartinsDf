@@ -41,11 +41,18 @@ Olá! Me chamo Vitor Martins, tenho 20 anos e sou natural de Brasília. Concluí
 
 ### 📊 Estatísticas
 
-<img 
-    width="300" 
-    src="https://github-readme-stats-phi-seven-81.vercel.app/api?username=VitorMartinsDF&title=📊%20Estatísticas%20do%20GitHub%20de%20Vitor%20Martins&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-  <img 
-    width="300" 
-    src="https://github-readme-stats-phi-seven-81.vercel.app/api/top-langs/?username=VitorMartinsDF&layout=compact&theme=tokyonight&title=🛠️%20Tecnologias"
-  />
+<img
+	align="left"
+	alt="GitHub Stats"
+	height="200"
+	style="padding-right: 10px;"
+	src="https://github-readme-stats-phi-seven-81.vercel.app/api?username=VitorMartinsDF&title=📊%20Estatísticas%20do%20GitHub%20de%20Vitor%20Martins&show_icons=true&theme=tokyonight&include_all_commits=true"
+/>
+
+<img
+    align="left"
+	alt="GitHub Stats"
+	height="200"
+	style="padding-right: 10px;"
+	src="https://github-readme-stats-phi-seven-81.vercel.app/api/top-langs/?username=VitorMartinsDF&layout=compact&theme=tokyonight&title=🛠️%20Tecnologias"
+/>
