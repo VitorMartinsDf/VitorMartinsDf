@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Olá! Me chamo Vitor Martins, tenho 20 anos e sou natural de Brasília. Concluí o ensino médio em 2023 e atualmente curso Ciência da Computação na UDF. Sou apaixonado por tecnologia desde criança e adoro explorar novas ferramentas, linguagens de programação e projetos que me desafiem a aprender sempre mais. Aqui compartilho alguns dos meus projetos, desde os mais simples até os mais complexos.
+Olá, eu sou Vitor Martins! Tenho 20 anos e sou natural de Brasília. Concluí o ensino médio em 2023 e atualmente curso Ciência da Computação na UDF. Sou apaixonado por tecnologia desde criança e adoro explorar novas ferramentas, linguagens de programação e projetos que me desafiem a aprender sempre mais. Aqui compartilho alguns dos meus projetos, desde os mais simples até os mais complexos.
 
 ---
 
